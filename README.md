@@ -26,3 +26,18 @@ This is a simple HelloWorld program in Python.
 
 <a href="https://codingbat.com/python">CodingBat</a><br>
  Python CodingBat Problems
+ 
+ <a href="https://repl.it/@heagle/WhilePy">WhilePy</a><br>
+This is a simple while loop
+
+<a href="https://repl.it/@heagle/WhileBreak">WhileBreak</a><br>
+This is a simple while with a break loop
+
+<a href="https://repl.it/@heagle/ForPy">ForPy</a><br>
+This is a simple for loop
+
+<a href="https://repl.it/@heagle/ArrayPy">ArrayPy</a><br>
+This is a simple array example
+
+<a href="https://repl.it/@heagle/Random">Random</a><br>
+This code generates random integers 
