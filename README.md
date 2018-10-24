@@ -19,3 +19,10 @@ This is a simple HelloWorld program in Python.
 
 <a href="https://repl.it/@heagle/GradeCompare">GradeCompare</a><br>
   This is a simple if - else if - else statement
+
+# Day 2: Loops
+
+<a href="https://docs.google.com/presentation/d/10wwmpRPN6I_aMReTEYJ1LAkk0oncP7K5R2B2TBZTrZE/edit?usp=sharing"> Loops PowerPoint</a>
+
+<a href="https://codingbat.com/python">CodingBat</a><br>
+ Python CodingBat Problems
